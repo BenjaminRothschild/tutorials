@@ -1,33 +1,40 @@
-# Python 练习 tutorials
+<p align="center">
+    <a href="https://morvanzhou.github.io/tutorials/" target="_blank">
+    <img width="60%" src="https://github.com/MorvanZhou/tutorials/blob/master/%E7%89%87%E5%A4%B4.png" style="max-width:100%;">
+    </a>
+</p>
 
-python 基础 教程视频链接:
-https://www.youtube.com/playlist?list=PLXO45tsB95cIRP5gCi8AlYwQ1uFO2aQBw
 
-python tensorflow 神经网络 机器学习 深度学习 学习教程 视频链接:
-https://www.youtube.com/playlist?list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8
+<br>
 
-python scikit-learn 机器学习 学习教程 视频链接:
-https://www.youtube.com/playlist?list=PLXO45tsB95cI7ZleLM5i3XXhhe9YmVrRO
+我是 周沫凡, [莫烦Python](https://morvanzhou.github.io/about/) 只是谐音, 我喜欢制作,
+分享所学的东西, 所以你能在这里找到很多有用的东西, 少走弯路. 你能在[这里](https://morvanzhou.github.io/about/)找到关于我的所有东西.
 
-python theano 神经网络 机器学习 视频链接:
-https://www.youtube.com/playlist?list=PLXO45tsB95cKpDID642AjNkygrSR5X15T
+## 这个 Python tutorial 的一些内容:
 
-python matplotlib 图像可视化 视频教程:
-https://www.youtube.com/playlist?list=PLXO45tsB95cKiBRXYqNNCw8AUo6tYen3l
+* [Python 基础](https://morvanzhou.github.io/tutorials/python-basic/)
+  * [基础](https://morvanzhou.github.io/tutorials/python-basic/basic/)
+  * [多线程 threading](https://morvanzhou.github.io/tutorials/python-basic/threading/)
+  * [多进程 multiprocessing](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
+  * [简单窗口 tkinter](https://morvanzhou.github.io/tutorials/python-basic/tkinter/)
+* [机器学习](https://morvanzhou.github.io/tutorials/machine-learning/)
+  * [有趣的机器学习](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/)
+  * [强化学习 (Reinforcement Learning)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
+  * [进化算法 (Evolutionary Algorithm) 如遗传算法等](https://morvanzhou.github.io/tutorials/machine-learning/evolutionary-algorithm/)
+  * [Tensorflow (神经网络)](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
+  * [PyTorch (神经网络)](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
+  * [Theano (神经网络)](https://morvanzhou.github.io/tutorials/machine-learning/theano/)
+  * [Keras (快速神经网络)](https://morvanzhou.github.io/tutorials/machine-learning/keras/)
+  * [Scikit-Learn (机器学习)](https://morvanzhou.github.io/tutorials/machine-learning/sklearn/)
+  * [机器学习实战](https://morvanzhou.github.io/tutorials/machine-learning/ML-practice/)
+* [数据处理](https://morvanzhou.github.io/tutorials/data-manipulation/)
+  * [Numpy & Pandas (处理数据)](https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/)
+  * [Matplotlib (绘图)](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
+* [其他](https://morvanzhou.github.io/tutorials/others/)
+  * [Git (版本管理)](https://morvanzhou.github.io/tutorials/others/git/)
+  * [Linux 简易教学](https://morvanzhou.github.io/tutorials/others/linux-basic/)
 
-python numpy & pandas 数据处理 学习教程 视频链接:
-https://www.youtube.com/playlist?list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4
+## 赞助和支持
 
-python multiprocessing 多进程 视频教程教程链接:
-https://www.youtube.com/playlist?list=PLXO45tsB95cJgYDaJbwhg629-Il5cfkhe
-
-python threading 多线程 视频教学链接:
-https://www.youtube.com/playlist?list=PLXO45tsB95cKaHtKLn-jat8SOGndS3MEt
-
-python tkinter 跨平台 GUI 视频教学链接:
-https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH
-
-如果你是大陆的用户, 欢迎订阅我在优酷里的频道:
-http://i.youku.com/pythontutorial
-
-本github 提供这些视频链接的 python 学习相关代码
+这些 tutorial 都是我用业余时间写出来, 录成视频, 如果你觉得它对你很有帮助, 请你也分享给需要学习的朋友们.
+如果你看好我的经验分享, 也请考虑适当的 [赞助打赏](https://morvanzhou.github.io/support/), 让我能继续分享更好的内容给大家.
